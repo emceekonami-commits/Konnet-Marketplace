@@ -1,0 +1,5 @@
+{
+  "name": "Konnet Marketplace",
+  "description": "A secure marketplace with vendor verification, monthly subscriptions, and escrow payment protection.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
